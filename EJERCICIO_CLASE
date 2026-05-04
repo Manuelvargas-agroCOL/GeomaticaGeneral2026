@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio en Clase - Manuel Lozano</title>
+</head>
+<body>
+    <h1>EJERCICIO EN CLASE [cite: 1]</h1>
+    
+    <p><strong>Estudiante:</strong> Manuel Ignacio Lozano Vargas - 1005715544 [cite: 2]</p>
+
+    <p>Se realizó el trabajo en clase sin embargo se tuvo problemas a la hora de ejecutar el mapa, hasta este punto quede en la clase, también se presento el avance del proyecto. </p>
+
+    <hr>
+    <h3>Evidencia del Proceso:</h3>
+    <img src="evidencia_qgis.png" alt="Captura de pantalla de QGIS con OpenGeoAgent" style="max-width:100%; height:auto;">
+</body>
+</html>
